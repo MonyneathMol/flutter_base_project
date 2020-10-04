@@ -1,6 +1,7 @@
 # flutterapp
 
-Base Flutter project
+Base project for starting project flutter using Bloc Pattern
+
 
 ## Getting Started
 
